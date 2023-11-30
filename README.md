@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Faduma Xussien Osman</h1>
+            <h1> Faduma Hussien Osman</h1>
             <h2> ID: 0043</h2>
             <table border="25">
                 <tr>
